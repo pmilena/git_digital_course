@@ -1,5 +1,6 @@
 # Curso Digital: Git
 
-### Salvando modificações no Git - parte 2
+### Salvando modificações no Git 
 
-*uso do comando restore
+*uso do comando "git remote"
+*uso do comando "git push"
